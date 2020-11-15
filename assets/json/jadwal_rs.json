@@ -1,0 +1,20 @@
+[
+    {
+        "nama_tempat" : "Rumah Sakit SMKDEV",
+        "alamat" : "JL.Margacinta No.29",
+        "jadwal1" : "Senin - Jumat : 08.00 - 20.00",
+        "jadwal2" : "Sabtu : 08.00 - 17.00"
+    },
+    {
+        "nama_tempat" : "Klinik SMKDEV",
+        "alamat" : "Jl.Mars Barat | No. 29",
+        "jadwal1" : "Senin - Jumat : 08.00 - 20.00",
+        "jadwal2" : "Sabtu : 08.00 - 13.00"
+    },
+    {
+        "nama_tempat" : "BPJS",
+        "alamat" : "Jl.Margacinta No. 29",
+        "jadwal1" : "Senin - Jumat : 08.00 - 20.00, 16.00 - 19.00",
+        "jadwal2" : "Sabtu : 07.00 - 12.00"
+    }
+]

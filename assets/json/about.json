@@ -1,0 +1,41 @@
+{
+    "imageUrl": "https://asset.kompas.com/crops/mOKFrYHlSTM6SEt4aD9PIXZnJE0=/0x5:593x400/750x500/data/photo/2020/03/16/5e6ee88f78835.jpg",
+    "title": "Sekilas Tentang SMKDEV ",
+    "body": "SMK.DEV adalah komunitas developer siswa jurusan Rekayasa Perangkat Lunak (RPL), Teknik Komputer dan Jaringan (TKJ) dan Multimedia (MM) dari seluruh Indonesia. Mereka adalah talenta yang bersemangat dan luar biasa berbakat serta kompetitif. Mereka bergabung untuk meningkatkan skill coding, menunjukkan keahlian mereka dan siap merealisasikan kebutuhan aplikasi untuk bisnis Anda.\n \nDidukung komunitas developer siswa SMK dari seluruh indonesia, Kami siap untuk mewujudkan kebutuhan digital di perusahaan Anda",
+    "section": [
+        {
+            "icon": "assets/icons8-google-maps.svg",
+            "title": "Temui Kami",
+            "columTitle1": "Rumah Sakit SMKDEV",
+            "columText1": "Jl.Margacinta No.29",
+            "columTitle2": "Rumah Sakit SMKDEV",
+            "columText2": "Jl.Margacinta No.29",
+            "isTreeColum": false,
+            "columTitle3": "aa",
+            "columText3": "aa"
+        },
+        {
+            "icon": "assets/icons8-google-maps.svg",
+            "title": "Layanan Darurat",
+            "columTitle1": "Unit Gawat Darurat Umum",
+            "columText1": "Setiap Hari 24 Jam",
+            "columTitle2": "Ambulan Siaga",
+            "columText2": "+622 7000 0000\n+622 7000 0000",
+            "isTreeColum": true,
+            "columTitle3": "Telepon",
+            "columText3": "+62813 0000 0000"
+        },
+        {
+            "icon": "assets/icons8-google-maps.svg",
+            "title": "Waktu Operasional",
+            "columTitle1": "Rumah Sakit",
+            "columText1": "Senin - Jumat : 08.00 - 20.00\nSabtu : 08.00 - 17.00",
+            "columTitle2": "Klinik",
+            "columText2": "Senin - Jumat : 08.00 - 20.00\nSabtu : 08.00 - 13.00",
+            "isTreeColum": true,
+            "columTitle3": "BPJS",
+            "columText3": "Senin - Jumat : 07.00 - 14.00,\n16.00 - 19.00\nSabtu : 07.00 - 12.00"
+        }
+        
+    ]
+}
